@@ -1,0 +1,35 @@
+1. What is Python?
+A. Python is an elephant.
+B. Python is the smallest spider which lives in rainforests.
+C. Python is an interpreted, interactive, object-oriented programming language.
+D. Python is a type-safe object-oriented language whose source code is compiled into an intermediate language.
+2. Czy znajomość "Monty Python’s Flying Circus” jest programiście Pythona niezbędna? 
+A. Tak, jest obowiązkowa.
+B. Tak, ponieważ bez tej znajomości nie można pisać bardziej zaawansowanych aplikacji.
+C. Tak, gdyż jest wymagana przez Python Software Foundation.
+D. Nie, ale może pomóc w pisaniu kodu.
+3. Who is the creator of Python?
+A. Bjarne Stroustrup
+B. Guido van Rossum
+C. Linus Torvalds
+D. Anders Hejlsberg
+4. A method in Python...
+A. is the particular object type created by executing a class statement.
+B. is used as a template to create instance objects.
+C. is a function.
+D. is a particular instance of a class.
+5. Która z instrukcji nie występuje w Pythonie?
+A. if...else
+B. break
+C. switch...case
+D. continue
+6. What values does the function range(-10, -100, -30) generate?
+A. -10, -100, -30
+B. -10, -110, -140
+C. -10, -30, -30
+D. -10, -40, -70 
+7. Która struktura danych nie występuje w Pythonie?
+A. krotka
+B. lista
+C. słownik
+D. wąż
